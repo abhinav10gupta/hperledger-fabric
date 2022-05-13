@@ -1,2 +1,2 @@
-# Hyperledger-fabric
+# fabric-samples
 testing features 
